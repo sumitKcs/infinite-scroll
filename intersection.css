@@ -1,0 +1,13 @@
+.item {
+    margin: 0;
+    padding: 20px 0;
+    text-align: center;
+  }
+  .item:nth-child(even) {
+    background: #eee;
+  }
+  #watch_end_of_document {
+    height: 10px;
+    margin: 0;
+  }
+  
